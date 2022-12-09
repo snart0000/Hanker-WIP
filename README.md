@@ -1,2 +1,0 @@
-# Hanker-WIP
-Hanker App
